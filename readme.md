@@ -2,7 +2,7 @@
 
 ## ABOUT:
 
-Collection of PHP functions written and used in some of my projects. Credit given where do, most of the code is adapted, and this repo represents a collection.
+Collection of PHP functions written and used in some of my projects. Credit given where due, most of the code is adapted, and this repo represents a collection.
 
 
 ## `startsWith` and `endsWith`
